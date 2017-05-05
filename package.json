@@ -10,7 +10,8 @@
     "bluebird": "^3.2.1",
     "jquery": "^1.9.1",
     "pdfjs-dist": "^1.8.241",
-    "underscore": "^1.8.3"
+    "underscore": "^1.8.3",
+    "vue-resize-sensor": "^1.1.0"
   },
   "devDependencies": {
     "webpack": "^1.14.0"
